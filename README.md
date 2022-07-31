@@ -59,8 +59,8 @@ Programmer | Content Creator | Learner
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=thusith321&show_icons=true&locale=en" alt="Kazi Mahbubur Rahman" /></p>
 
-[website]: https://TechHelpBD.com
-[facebook]: https://facebook.com/MahbubDev
+[website]: https://Thusith.com
+[facebook]: https://www.facebook.com/thusith.thiwanka.71
 [twitter]: https://twitter.com/mahbubdev
 [youtube]: https://youtube.com/TechHelpBangladesh
 [instagram]: https://instagram.com/mahbubdev/
