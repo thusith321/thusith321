@@ -62,7 +62,6 @@ Programmer | Content Creator | Learner
 [website]: https://Thusith.com
 [facebook]: https://www.facebook.com/thusith.thiwanka.71
 [twitter]: https://twitter.com/mahbubdev
-[youtube]: https://youtube.com/TechHelpBangladesh
-[instagram]: https://instagram.com/mahbubdev/
-[linkedin]: https://linkedin.com/in/mahbubdev
-[telegram]: https://t.me/TechHelpBangladesh
+[youtube]: https://www.youtube.com/channel/UCP5H0K_48v7qtc5SYtjUJYg
+[instagram]: https://www.instagram.com/thusith_hettiarachchi/
+[linkedin]: https://twitter.com/Thusith999
