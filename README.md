@@ -14,7 +14,7 @@ Programmer | Content Creator | Learner
 
 - 💬 Ask me about **Anything**
 
-- 📫 How to reach me **thusiththiwanka.tth@gmail.com**
+- 📫 How to reach me **info@thusith.com**
 
 - ⚡ Fun fact **I can provide you cookies for free to eat 🍪😂**
 
