@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://github.com/thusith321/thusith321/blob/main/Wave.gif" height="55px" width="55px">, I'm Thusith Hettiarachchi</h1>
+<h1 align="center">Hi <img src="https://github.com/thusith321/thusith321/blob/main/Wave.gif" height="55px" width="55px">, I'm Thusith </h1>
 <h3 align="center">¯\_(ツ)_/¯
 
 Programmer | Content Creator | Learner
