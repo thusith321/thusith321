@@ -6,7 +6,7 @@ Programmer | Content Creator | Learner
 
 ?></h3>
 
-- 🔭 I’m currently working on **Android Development**
+- 🔭 I’m currently working on **Android Development and CodeIgniter**
 
 - 🌱 I’m currently learning **Java**
 
